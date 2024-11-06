@@ -8,7 +8,7 @@ develop:[![Documentation Status](https://readthedocs.org/projects/scripture-burr
 
 A data interchange format for Bible-centric content.
 
-See https://docs.burrito.bible/ (or https://scripture-burrito.readthedocs.io/) for the documentation, this repo is the source files.
+See [docs.burrito.bible](https://docs.burrito.bible/) for the documentation, this repo is the source files.
 
 If you want to suggest a change, please fork this repo and create a PR, or create an Issue.
 
