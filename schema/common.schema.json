@@ -4,7 +4,8 @@
     "$$target": [
         "common.schema.json#/definitions/languageTag",
         "common.schema.json#/definitions/localizedText",
-        "common.schema.json#/definitions/rodCode"
+        "common.schema.json#/definitions/rodCode",
+        "common.schema.json#/definitions/mimeType"
     ],
     "title": "Common Definitions",
     "description": "Common definitions for use by other parts of the schema.",
